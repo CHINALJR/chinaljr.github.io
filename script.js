@@ -33,9 +33,9 @@ document.addEventListener('DOMContentLoaded', () => {
       const sortedYears = Object.keys(grouped).sort((a, b) => parseInt(b) - parseInt(a));
 
       sortedYears.forEach(year => {
-        const yearHeader = document.createElement('h3');
-        yearHeader.textContent = year;
-        container.appendChild(yearHeader);
+        // const yearHeader = document.createElement('h3');
+        // yearHeader.textContent = year;
+        // container.appendChild(yearHeader);
 
         const ul = document.createElement('ul');
         grouped[year].forEach(paper => {
