@@ -39,21 +39,6 @@
     "code": null
   },
   {
-    "title": "分离式数据中心的存储系统研究进展: Progress on Storage Systems for Disaggregated Data Centers",
-    "authors": [
-      "舒继武",
-      "陈游旻",
-      "汪庆",
-      "王晶",
-      "李俊儒",
-      "廖晓坚"
-    ],
-    "venue": "中国科学: 信息科学",
-    "year": "2023",
-    "link": "https://storage.cs.tsinghua.edu.cn/publications/分离式数据中心的存储系统研究进展.pdf",
-    "code": null
-  },
-  {
     "title": "λ-IO: A Unified IO Stack for Computational Storage",
     "authors": [
       "Zhe Yang",
