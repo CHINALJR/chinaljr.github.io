@@ -1,0 +1,144 @@
+[
+ 
+  
+  
+  {
+    "title": "CableCache: In-Network Request Deduplication for Key-Value Stores",
+    "authors": [
+      "Jiawei Huang",
+      "Junru Li",
+      "Qing Wang",
+      "Lijie Wen",
+      "Youyou Lu",
+      "Erci Xu"
+    ],
+    "venue": "The 17th ACM Workshop on Hot Topics in Storage and File Systems",
+    "short": "HotStorage'25",
+    "year": "2025",
+    "link": null,
+    "code": null
+  },
+  {
+    "title": "在网存储系统研究综述: Survey on In-Network Storage Systems",
+    "authors": [
+      "汪庆",
+      "李俊儒",
+      "舒继武"
+    ],
+    "venue": "计算机研究与发展",
+    "year": "2023",
+    "link": null,
+    "code": null
+  },
+  {
+    "title": "分离式数据中心的存储系统研究进展: Progress on Storage Systems for Disaggregated Data Centers",
+    "authors": [
+      "舒继武",
+      "陈游旻",
+      "汪庆",
+      "王晶",
+      "李俊儒",
+      "廖晓坚"
+    ],
+    "venue": "中国科学: 信息科学",
+    "year": "2023",
+    "link": "https://storage.cs.tsinghua.edu.cn/publications/分离式数据中心的存储系统研究进展.pdf",
+    "code": null
+  },
+  {
+    "title": "Nap: Persistent Memory Indexes for NUMA Architectures",
+    "authors": [
+      "Qing Wang",
+      "Youyou Lu",
+      "Junru Li",
+      "Minhui Xie",
+      "Jiwu Shu"
+    ],
+    "venue": "ACM Transactions on Storage",
+    "short": "TOS",
+    "year": "2022",
+    "link": "https://dl.acm.org/doi/10.1145/3507922",
+    "award": "Fast tracked",
+    "code": null
+  },
+  {
+    "title": "AlNiCo: SmartNIC-accelerated Contention-aware Request Scheduling for Transaction Processing",
+    "authors": [
+      "Junru Li",
+      "Youyou Lu",
+      "Qing Wang",
+      "Jiazhen Lin",
+      "Zhe Yang",
+      "Jiwu Shu"
+    ],
+    "venue": "USENIX Annual Technical Conference",
+    "short": "USENIX ATC'22",
+    "year": "2022",
+    "link": "https://www.usenix.org/conference/atc22/presentation/li-junru",
+    "code": null
+  },
+  {
+    "title": "SwitchTx: Scalable In-Network Coordination for Distributed Transaction Processing",
+    "authors": [
+      "Junru Li",
+      "Youyou Lu",
+      "Yiming Zhang",
+      "Qing Wang",
+      "Zhuo Cheng",
+      "Keji Huang",
+      "Jiwu Shu"
+    ],
+    "venue": "The 48th International Conference on Very Large Data Bases",
+    "short": "VLDB'22",
+    "year": "2022",
+    "link": "https://vldb.org/pvldb/vol15/p2881-li.pdf",
+    "code": null
+  },
+  {
+    "title": "Nap: A Black-Box Approach to NUMA-Aware Persistent Memory Indexes",
+    "authors": [
+      "Qing Wang",
+      "Youyou Lu",
+      "Junru Li",
+      "Jiwu Shu"
+    ],
+    "venue": "The 15th USENIX Symposium on Operating Systems Design and Implementation",
+    "short": "OSDI'21",
+    "year": "2021",
+    "link": "https://www.usenix.org/conference/osdi21/presentation/wang-qing",
+    "code": null,
+    "award": "Invited for fast-tracked publication in ACM Transactions on Storage"
+  },
+  {
+    "title": "Concordia: Distributed Shared Memory with In-Network Cache Coherence",
+    "authors": [
+      "Qing Wang",
+      "Youyou Lu",
+      "Erci Xu",
+      "Junru Li",
+      "Youmin Chen",
+      "Jiwu Shu"
+    ],
+    "venue": "USENIX Conference on File and Storage Technologies",
+    "short": "FAST'21",
+    "year": "2021",
+    "link": "https://www.usenix.org/conference/fast21/presentation/wang",
+    "code": null
+  },
+  {
+    "title": "TH-DPMS: Design and Implementation of an RDMA-enabled Distributed Persistent Memory Storage System",
+    "authors": [
+      "Jiwu Shu",
+      "Youmin Chen",
+      "Qing Wang",
+      "Bohong Zhu",
+      "Junru Li",
+      "Youyou Lu"
+    ],
+    "venue": "ACM Transactions on Storage",
+    "short": "TOS",
+    "year": "2020",
+    "link": "https://dl.acm.org/doi/10.1145/3412852",
+    "code": null
+  }
+]
