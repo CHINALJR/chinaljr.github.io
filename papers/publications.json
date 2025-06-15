@@ -1,6 +1,26 @@
 [
  
-  
+  {
+    "title": "PolarStore: High-Performance Data Compression for Large-Scale Cloud-Native Databases with Optimized Space Utilization",
+    "authors": [
+      "Qingda Hu",
+      "Xinjun Yang",
+      "Feifei Li",
+      "Junru Li",
+      "Ya Lin",
+      "Yuqi Zhou",
+      "Yicong Zhu",
+      "Junwei Zhang",
+      "Rongbiao Xie",
+      "Ling Zhou",
+      "Bin Wu",
+      "Wenchao Zhou"
+    ],
+    "venue": "The 24th USENIX Conference on File and Storage Technologies",
+    "short": "FAST'26",
+    "year": 2026,
+    "link": "https://www.usenix.org/conference/fast26/"
+  },
   
   {
     "title": "CableCache: In-Network Request Deduplication for Key-Value Stores",
@@ -45,21 +65,7 @@
     "link": "https://storage.cs.tsinghua.edu.cn/publications/分离式数据中心的存储系统研究进展.pdf",
     "code": null
   },
-  {
-    "title": "Nap: Persistent Memory Indexes for NUMA Architectures",
-    "authors": [
-      "Qing Wang",
-      "Youyou Lu",
-      "Junru Li",
-      "Minhui Xie",
-      "Jiwu Shu"
-    ],
-    "venue": "ACM Transactions on Storage",
-    "short": "TOS",
-    "year": "2022",
-    "link": "https://dl.acm.org/doi/10.1145/3507922",
-    "code": null
-  },
+  
   {
     "title": "AlNiCo: SmartNIC-accelerated Contention-aware Request Scheduling for Transaction Processing",
     "authors": [
@@ -91,6 +97,21 @@
     "short": "VLDB'22",
     "year": "2022",
     "link": "https://vldb.org/pvldb/vol15/p2881-li.pdf",
+    "code": null
+  },
+  {
+    "title": "Nap: Persistent Memory Indexes for NUMA Architectures",
+    "authors": [
+      "Qing Wang",
+      "Youyou Lu",
+      "Junru Li",
+      "Minhui Xie",
+      "Jiwu Shu"
+    ],
+    "venue": "ACM Transactions on Storage",
+    "short": "TOS",
+    "year": "2022",
+    "link": "https://dl.acm.org/doi/10.1145/3507922",
     "code": null
   },
   {

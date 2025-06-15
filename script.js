@@ -43,7 +43,7 @@ document.addEventListener('DOMContentLoaded', () => {
           item.style.marginBottom = "8px";
 
           const highlightedAuthors = paper.authors.map(name => {
-            if (name.includes("Junru Li") || name.includes("李俊儒")) {
+            if (name.includes("Junru Li") || name.includes("李俊儒") || name.includes("Junru Li*")) {
               return `<span class="highlight">${name}</span>`;
             } else if (authorLinks[name]) {
               return `<a href="${authorLinks[name]}" class="author-link">${name}</a>`;
