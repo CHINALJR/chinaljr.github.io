@@ -58,7 +58,6 @@
     "short": "TOS",
     "year": "2022",
     "link": "https://dl.acm.org/doi/10.1145/3507922",
-    // "award": "Fast tracked",
     "code": null
   },
   {
@@ -107,7 +106,6 @@
     "year": "2021",
     "link": "https://www.usenix.org/conference/osdi21/presentation/wang-qing",
     "code": null
-    // "award": "Invited for fast-tracked publication in ACM Transactions on Storage"
   },
   {
     "title": "Concordia: Distributed Shared Memory with In-Network Cache Coherence",
