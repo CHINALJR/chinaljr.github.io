@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const authorLinks = {
     "Youyou Lu": "http://storage.cs.tsinghua.edu.cn/~lu/",
     "Zhe Yang": "http://storage.cs.tsinghua.edu.cn/~yz",
-    "Qing Wang": "http://qingwang.io/",
+    "Qing Wang": "https://wangqing.io/",
     "Minhui Xie": "https://minhui-xie.github.io/",
     "Jiwu Shu": "http://storage.cs.tsinghua.edu.cn/~jiwu-shu",
     "Youmin Chen": "https://chenyoumin1993.github.io/",
@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "Jiazhen Lin": "https://storage.cs.tsinghua.edu.cn/~ljz/",
     "王晶": "https://storage.cs.tsinghua.edu.cn/~wj/",
     "陈游旻": "https://chenyoumin1993.github.io/",
-    "汪庆": "http://qingwang.io/",
+    "汪庆": "https://wangqing.io/",
     "廖晓坚": "https://liaoxiaojian.github.io/",
     "舒继武": "http://storage.cs.tsinghua.edu.cn/~jiwu-shu",
     "Qingda Hu": "https://scholar.google.com/citations?user=mdD3xMMAAAAJ",
