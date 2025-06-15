@@ -49,7 +49,7 @@ document.addEventListener('DOMContentLoaded', () => {
             } else if (authorLinks[name]) {
               return `<a href="${authorLinks[name]}" class="author-link">${name}</a>`;
             } else {
-              return name;
+              return `<a href="https://junru.li" class="author-link">${name}</a>`;
             }
           }).join(", ");
 
