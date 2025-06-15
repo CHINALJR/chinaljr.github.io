@@ -16,7 +16,6 @@ document.addEventListener('DOMContentLoaded', () => {
     "汪庆": "http://qingwang.io/",
     "廖晓坚": "https://liaoxiaojian.github.io/",
     "舒继武": "http://storage.cs.tsinghua.edu.cn/~jiwu-shu",
-    // 更多作者...
   };
   
   fetch('papers/publications.json')
@@ -49,7 +48,7 @@ document.addEventListener('DOMContentLoaded', () => {
             } else if (authorLinks[name]) {
               return `<a href="${authorLinks[name]}" class="author-link">${name}</a>`;
             } else {
-              return `<a href="https://junru.li" class="author-link">${name}</a>`;
+              return name;
             }
           }).join(", ");
 
