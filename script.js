@@ -16,6 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "汪庆": "http://qingwang.io/",
     "廖晓坚": "https://liaoxiaojian.github.io/",
     "舒继武": "http://storage.cs.tsinghua.edu.cn/~jiwu-shu",
+    "Qingda Hu": "https://scholar.google.com/citations?user=mdD3xMMAAAAJ"
   };
   
   fetch('papers/publications.json')
