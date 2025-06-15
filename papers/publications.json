@@ -39,6 +39,38 @@
     "code": null
   },
   {
+    "title": "分离式数据中心的存储系统研究进展: Progress on Storage Systems for Disaggregated Data Centers",
+    "authors": [
+      "舒继武",
+      "陈游旻",
+      "汪庆",
+      "王晶",
+      "李俊儒",
+      "廖晓坚"
+    ],
+    "venue": "中国科学: 信息科学",
+    "year": "2023",
+    "link": "https://storage.cs.tsinghua.edu.cn/publications/分离式数据中心的存储系统研究进展.pdf",
+    "code": null
+  },
+  {
+    "title": "λ-IO: A Unified IO Stack for Computational Storage",
+    "authors": [
+      "Zhe Yang",
+      "Youyou Lu",
+      "Xiaojian Liao",
+      "Youmin Chen",
+      "Junru Li",
+      "Siyu He",
+      "Jiwu Shu"
+    ],
+    "venue": "The 21st USENIX Conference on File and Storage Technologies",
+    "short": "FAST'23",
+    "year": "2023",
+    "link": "https://www.usenix.org/conference/fast23/presentation/yang-zhe",
+    "code": null
+  },
+  {
     "title": "在网存储系统研究综述: Survey on In-Network Storage Systems",
     "authors": [
       "汪庆",
@@ -138,7 +170,7 @@
       "Youmin Chen",
       "Jiwu Shu"
     ],
-    "venue": "USENIX Conference on File and Storage Technologies",
+    "venue": "The 19th USENIX Conference on File and Storage Technologies",
     "short": "FAST'21",
     "year": "2021",
     "link": "https://www.usenix.org/conference/fast21/presentation/wang",
