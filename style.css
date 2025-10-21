@@ -90,7 +90,8 @@ a:hover {
 
 .highlight {
   color: #0c0c0c;
-  text-decoration: underline;
+  font-weight: 600;
+  /* text-decoration: underline; */
 }
 
 .bule-tag {

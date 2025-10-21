@@ -18,7 +18,8 @@ document.addEventListener('DOMContentLoaded', () => {
     "舒继武": "http://storage.cs.tsinghua.edu.cn/~jiwu-shu",
     "Qingda Hu": "https://scholar.google.com/citations?user=mdD3xMMAAAAJ",
     "Yiming Zhang": "http://nicexlab.com/zym.htm",
-    "Xinjun Yang": "https://scholar.google.com/citations?user=EsV3aoEAAAAJ"
+    "Xinjun Yang": "https://scholar.google.com/citations?user=EsV3aoEAAAAJ",
+    "Feifei Li": "https://scholar.google.com/citations?user=qPDhlWkAAAAJ"
   };
   
   fetch('papers/publications.json')
@@ -62,6 +63,9 @@ document.addEventListener('DOMContentLoaded', () => {
           const awardInline = paper.award && paper.award.length < max_inline_award_length
             ? ` (<span class="award-inline">${paper.award}</span>)`
             : "";
+          const tagInline = paper.tags && paper.tags.length < max_inline_award_length
+            ? ` (<span class="bule-tag">${paper.tags}</span>)`
+            : "";
 
           const awardBlock = paper.award && paper.award.length >= max_inline_award_length
             ? `<br><span class="award">${paper.award}</span>`
@@ -69,9 +73,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
           item.innerHTML = `
             ${paper.short ? `<strong>[${paper.short}]</strong> ` : ""}
-            <a href="${paper.link}" target="_blank">${paper.title}</a>${codeLink}<br>
+            <a href="${paper.link}" target="_blank">${paper.title} </a>${codeLink}<br>
             <span class="authors">${highlightedAuthors}</span><br>
-            <span class="venue-full">${paper.venue}, ${paper.year}${awardInline}</span>
+            <span class="venue-full">${paper.venue}, ${paper.year} ${tagInline}${awardInline}</span>
             ${awardBlock}
           `;
 
