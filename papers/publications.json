@@ -1,5 +1,26 @@
 [
   {
+    "title": "Beluga: A CXL-Based Memory Architecture for Scalable and Efficient LLM KVCache Management",
+    "authors": [
+      "Xinjun Yang",
+      "Qingda Hu",
+      "Junru Li",
+      "Feifei Li",
+      "Yuqi Zhou",
+      "Yicong Zhu",
+      "Qiuru Lin",
+      "Jian Dai",
+      "Yang Kong",
+      "Jiayu Zhang",
+      "Guoqiang Xu",
+      "Qiang Liu"
+    ],
+    "venue": "ACM SIGMOD International Conference on Management of Data",
+    "short": "SIGMOD'26",
+    "year": 2026,
+    "link": "https://2026.sigmod.org/"
+  },
+  {
     "title": "Switch∆: Asynchronous Metadata Updating for Distributed Storage with In-Network Data Visibility",
     "authors": [
       "Junru Li",
