@@ -60,7 +60,7 @@ document.addEventListener('DOMContentLoaded', () => {
       if (sortedConferences) {
         const summaryDiv = document.createElement('div');
         summaryDiv.className = 'conference-summary';
-        summaryDiv.innerHTML = `<p><strong>Conference Summary:</strong> ${sortedConferences}</p>`;
+        summaryDiv.innerHTML = `<p><strong>Summary:</strong> ${sortedConferences}</p>`;
         container.appendChild(summaryDiv);
       }
 
